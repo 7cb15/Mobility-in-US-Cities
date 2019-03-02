@@ -3,11 +3,11 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 
 Contributors and Authors:
 
-Colin Bradley . 
-Yuxuan Cui . 
-Abdullah Kurkcu . 
-Jianwei Li    
-Minqui Lu . 
-Kaan Ozbay . 
-Karan Saini . 
+Colin Bradley <\br>
+Yuxuan Cui <\br>
+Abdullah Kurkcu <\br> 
+Jianwei Li <\br>
+Minqui Lu <\br>
+Kaan Ozbay <\br>
+Karan Saini <\br>
 
