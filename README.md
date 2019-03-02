@@ -3,7 +3,7 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 
 Contributors and Authors:
 
-Colin Bradley
+Colin Bradley \n
 Yuxuan Cui
 Abdullah Kurkcu
 Jianwei Li
