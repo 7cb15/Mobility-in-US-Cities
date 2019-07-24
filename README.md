@@ -11,7 +11,7 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 - Kaan Ozbay
 - Karan Saini
 
-## Visualization links (D3, hosted):
+## Visualizations (D3, hosted):
 
 - City + Time wise Individual CT level data:
   - https://karansaini282.github.io/mpi_d3/
@@ -19,11 +19,10 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 - City wise Origin-Dest Puma level data:
   - https://karansaini282.github.io/mpi_d3_2/
 
-## Visualization links (bokeh, local):
+## Visualizations (bokeh, local):
 
 ### Mode Time Map
 ![](Bokeh_Mode_Time.png)
-
 
 ### Bokeh Heat Map
 ![](Bokeh_Heat_Map.png)
