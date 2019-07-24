@@ -20,7 +20,7 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 ### Bokeh (only chrome browser):
 
 - City wise heat maps:
--- https://mpi-cusp-ny.herokuapp.com/app
+  - https://mpi-cusp-ny.herokuapp.com/app
 - https://mpi-cusp-chic.herokuapp.com/app
 - https://mpi-cusp-la.herokuapp.com/app
 - https://mpi-cusp-sf.herokuapp.com/app
