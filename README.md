@@ -13,6 +13,10 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 
 ## Visualizations (D3, hosted):
 
+- Interactive tools to visualize mobility patterns.
+- Data aggregated at different levels for various plots.
+- Please refer to github link for details.
+
 ### City + Time wise Individual CT level data:
   - https://karansaini282.github.io/mpi_d3/
 
@@ -20,6 +24,10 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
   - https://karansaini282.github.io/mpi_d3_2/
 
 ## Visualizations (bokeh, local):
+
+- Interactive tools for EDA to check data quality.
+- Data aggregated at CT level for all plots.
+- Please refer to python notebooks with same name as plots for details.
 
 ### Mode Time Map
 ![](Bokeh_Mode_Time.png)
