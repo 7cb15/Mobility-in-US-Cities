@@ -25,4 +25,4 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 ![](Bokeh_Arc_Map.png)
 
 ### Mode Time Map
-![](Mode_Time_Map.png)
+![](Bokeh_Mode_Time.png)
