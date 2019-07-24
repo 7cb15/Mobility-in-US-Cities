@@ -39,3 +39,11 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 
 ### 3) Bokeh Arc Map
 ![](Bokeh_Arc_Map.png)
+
+## Visualizations (NetworkX, local):
+
+- View of the Origin_Dest data in the form of a network.
+- Nodes represent centroids of PUMA level geometry.
+- Edge weights represent aggregated GPS pings.
+
+![](fourcitiesNetworkGraph.png)
