@@ -24,7 +24,7 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 ### 2) City wise Origin-Dest Puma level data:
   - https://karansaini282.github.io/mpi_d3_2/
 
-## Visualizations (bokeh, local):
+## Visualizations (Bokeh, local):
 
 - Interactive tools for EDA to check data quality.
 - Data is sponsor provided raw data.
@@ -42,7 +42,7 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 
 ## Visualizations (NetworkX, local):
 
-- View of the Origin_Dest data in the form of a network.
+- View of the Origin-Dest data in the form of a network.
 - Nodes represent centroids of PUMA level geometry.
 - Edge weights represent aggregated GPS pings.
 
