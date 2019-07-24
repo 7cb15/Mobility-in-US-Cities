@@ -11,16 +11,15 @@ Project exploring the mobility patterns in Chicago, Los Angeles, New York City, 
 - Kaan Ozbay
 - Karan Saini
 
-## Visualization links:
+## Visualization links (D3, hosted):
 
-### D3
+- City + Time wise individual CT level data:
+  - https://karansaini282.github.io/mpi_d3/
+  
+- City wise Origin Dest Puma level data:
+  - https://karansaini282.github.io/mpi_d3_2/
 
-- 
+## Visualization links (bokeh, local):
 
-### Bokeh (only chrome browser):
-
-- City wise heat maps:
-  - https://mpi-cusp-ny.herokuapp.com/app
-- https://mpi-cusp-chic.herokuapp.com/app
-- https://mpi-cusp-la.herokuapp.com/app
-- https://mpi-cusp-sf.herokuapp.com/app
+### Bokeh Arc Map
+![](Bokeh_Arc_Map.png)
